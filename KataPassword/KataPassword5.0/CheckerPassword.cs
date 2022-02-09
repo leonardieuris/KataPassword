@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace KataPassword
+namespace KataPassword5._0
 {
     public class CheckerPassword
     {

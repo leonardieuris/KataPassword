@@ -1,4 +1,6 @@
-﻿namespace KataPassword
+﻿using KataPassword5._0;
+
+namespace KataPassword5._05._0
 {
     public abstract class AbstractValidator : IValidator
     {

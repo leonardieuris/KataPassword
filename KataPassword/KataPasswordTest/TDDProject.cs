@@ -1,9 +1,9 @@
-using KataPassword;
+using KataPassword5._0;
 using NUnit.Framework;
 using System;
 using System.Collections.Generic;
 
-namespace KataPasswordTest
+namespace KataPassword5._0Test
 {
     public class Tests
     {

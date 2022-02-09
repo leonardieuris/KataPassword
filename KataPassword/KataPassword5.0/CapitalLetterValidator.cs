@@ -3,8 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using KataPassword5._05._0;
 
-namespace KataPassword
+namespace KataPassword5._0
 {
     public class CapitalLetterValidator : AbstractValidator
     {
